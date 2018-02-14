@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<äänestyssovellus>
+  <nimi>Äänestyssovellus</nimi>
+  <tekijä>S.Särkkä</tekijä>
+  <pvm>11.1.2018</pvm>
+  <äänestys>
+    <kohde>Ananas pitsan päällä?</kohde>
+    <vaihtoehto aanet="1">Kyllä</vaihtoehto>
+    <vaihtoehto aanet="1">Ei</vaihtoehto>
+    <vaihtoehto aanet="2">Kyllä uudestan</vaihtoehto>
+    <vaihtoehto aanet="1">Kyllä vielä kerran</vaihtoehto>
+    <kerrat yhteensa="5"/>
+  </äänestys>
+  <äänestys>
+    <kohde>Kysymys?</kohde>
+    <vaihtoehto aanet="1">Kyllä?</vaihtoehto>
+    <vaihtoehto aanet="0">Ei!</vaihtoehto>
+    <vaihtoehto aanet="0">Kyllä uudestanko?</vaihtoehto>
+    <vaihtoehto aanet="1">Eh..</vaihtoehto>
+    <kerrat yhteensa="2"/>
+  </äänestys>
+  <äänestys>
+    <kohde>100?</kohde>
+    <vaihtoehto aanet="0">1-33</vaihtoehto>
+    <vaihtoehto aanet="1">34-66</vaihtoehto>
+    <vaihtoehto aanet="1">67-100</vaihtoehto>
+    <kerrat yhteensa="2"/>
+  </äänestys>
+  <äänestys>
+    <kohde>Paras vuodenaika?</kohde>
+    <vaihtoehto aanet="0">Kevät</vaihtoehto>
+    <vaihtoehto aanet="1">Kesä</vaihtoehto>
+    <vaihtoehto aanet="1">Syksy</vaihtoehto>
+    <vaihtoehto aanet="0">Talvi</vaihtoehto>
+    <kerrat yhteensa="2"/>
+  </äänestys>
+  <taso/>
+</äänestyssovellus>
