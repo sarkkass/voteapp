@@ -6,7 +6,7 @@ $äänestysnumero = intval($_GET['id']);
 
 unset($xml->äänestys[$äänestysnumero]);
 
-echo $output
+echo $output;
 
 
 
